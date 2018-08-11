@@ -11,7 +11,7 @@ This blog will eventually contain, thought experiments and insight exploring man
 
 Disclaimer: This project does not reflect or affiliate itself with the thoughts or opinions of any other corporate projects I am currently assocaited/aligned with. "Although some of the ideas presented here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll." 
 
-== Planning Block Infrastructure
+== Planning Blog Infrastructure
 
 === Blog IA (Information Architecture)
 
