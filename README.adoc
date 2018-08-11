@@ -1,0 +1,10 @@
+= Personal Blogging Project
+:toc:
+:toclevels: 5
+jcayouette <joe.cayouette@gmail.com>
+
+== Introduction
+
+The goal of this project is to provide a place for knowledge to be stored,shared and for developing new techinical solutions for various innovations.
+
+== Blog IA (Information Architecture)
