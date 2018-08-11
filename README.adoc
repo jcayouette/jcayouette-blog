@@ -11,7 +11,9 @@ This blog will eventually contain, thought experiments and insight exploring man
 
 Disclaimer: This project does not reflect or affiliate itself with the thoughts or opinions of any other corporate projects I am currently assocaited/aligned with. "Although some of the ideas presented here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll." 
 
-== Blog IA (Information Architecture)
+== Planning Block Infrastructure
+
+=== Blog IA (Information Architecture)
 
 JoAnn Hackos book - "Managing Your Documentation Projects" will be used to construct the plan for this blog. This will serve as a solid foundation to build the its structure, goals and process. I hope that by following her experience I will grow as a capable project manager. Big thanks to Lana Brindley for introducing me to this gem!
 
