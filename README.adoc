@@ -8,7 +8,7 @@ jcayouette <joe.cayouette@gmail.com>
 The goal of this project is to provide a place for daily knowledge to be stored,shared and distributed. 
 It will act as a foundation for exploring and shaping various technical concepts and innovative solutions for many of my other projects.
 
-This blog will eventually contain, thought experiments and insight exploring many fascinating topics such as: Information science, Christianity/Religous studies, both historical and observational science, diluvial geology/sedimentology, morality and ethics, philosophy, cosmology, business and project management and perhaps a few greek, hewbrew, latin, german, and english language studies as well as smatterings of various historical topics.
+This blog will eventually contain, thought experiments and insight exploring many fascinating topics such as: Information science, Christianity/Religous studies, both historical and observational science, diluvial geology/sedimentology, morality and ethics, philosophy, cosmology, business and project management and perhaps a few greek, hewbrew, latin, german, and english language studies and a smattering of various historical topics.
 
 [quote, Jcayouette 2018]
 ____
