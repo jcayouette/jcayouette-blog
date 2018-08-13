@@ -15,6 +15,10 @@ ____
 **Disclaimer:** This project does not reflect or affiliate itself with the thoughts or opinions of any other corporate projects I am currently assocaited/aligned with. "Although some of the ideas presented here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll." 
 ____
 
+== Wiki - Planning and Contributor Guides
+
+[Tech Stack and Contribution Guides](https://github.com/jcayouette/jcayouette-blog/wiki)
+
 == Planning Blog Infrastructure
 
 === Blog IA (Information Architecture)
