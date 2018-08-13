@@ -12,7 +12,7 @@ This blog will eventually contain, thought experiments and insight exploring man
 
 [quote, Jcayouette 2018]
 ____
-**Disclaimer:** This project does not reflect or affiliate itself with the thoughts or opinions of any other corporate projects I am currently assocaited/aligned with. "Although some of the ideas presented here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll." 
+**Disclaimer:** This project does not reflect the thoughts or opinions of any other projects I am currently assocaited or aligned with. "Although some of the ideas presented/experimented with here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll." 
 ____
 
 == Wiki - Planning and Contributor Guides
