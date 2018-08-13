@@ -6,7 +6,7 @@ jcayouette <joe.cayouette@gmail.com>
 == Introduction
 
 The goal of this project is to provide a place for daily knowledge to be stored,shared, discussed and distributed. 
-It will act as a foundation for exploring and shaping various technical concepts and innovative solutions for many of my other projects.
+It will act as a foundation for exploring and shaping various technical concepts and innovative solutions for many of my other projects. A side goal of this project is to experiment with a modern technical documentation stack and backend that can be migrated to my official work.
 
 This blog will eventually contain, thought experiments and insight exploring many fascinating topics such as: Information science, Christianity/Religous studies, both historical and observational science, diluvial geology/sedimentology, morality and ethics, philosophy, cosmology, business and project management and perhaps a few Greek, Hebrew, Latin, German, and English language studies and a smattering of various historical topics.
 
