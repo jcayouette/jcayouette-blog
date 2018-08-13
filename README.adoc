@@ -26,3 +26,10 @@ https://github.com/jcayouette/jcayouette-blog/wiki[Tech Stack and Contribution G
 JoAnn Hackos book - "Managing Your Documentation Projects" will be used to construct the plan for this blog. This will serve as a solid foundation to build the its structure, goals and process. I hope that by following her experience I will grow as a capable project manager. Big thanks to Lana Brindley for introducing me to this gem!
 
 This blog will be a side project to my main profession so things will begin at a slow pace. Once planning, infrastructure, IA, and automation are in place, there should be at least semi-regular posts.
+
+**Blog Information Architechture (IA) Review (IN_PROGRESS)**    
+[Information Plan](blog-IA-Review---Information-Plan)    
+[Content Specification](blog-IA-Review---Content-Specification)    
+[Implementation](blog-IA-Review---Implementation)    
+[Production](blog-IA-Review---Production)    
+[Evaluation](blog-IA-Review---Evaluation) 
