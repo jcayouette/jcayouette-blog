@@ -27,9 +27,10 @@ JoAnn Hackos book - "Managing Your Documentation Projects" will be used to const
 
 This blog will be a side project to my main profession so things will begin at a slow pace. Once planning, infrastructure, IA, and automation are in place, there should be at least semi-regular posts.
 
-**Blog Information Architechture (IA) Review (IN_PROGRESS)**    
-[Information Plan](blog-IA-Review---Information-Plan)    
-[Content Specification](blog-IA-Review---Content-Specification)    
-[Implementation](blog-IA-Review---Implementation)    
-[Production](blog-IA-Review---Production)    
-[Evaluation](blog-IA-Review---Evaluation) 
+==== Blog Information Architechture (IA) Review (IN_PROGRESS) 
+
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Information-Plan[Information Plan]   
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Content-Specification[Content Specification]    
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Implementation[Implementation]   
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Production[Production]
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Evaluation[Evaluation]
