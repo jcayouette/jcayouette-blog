@@ -1,18 +1,21 @@
-= Personal Blogging Project
+---
+layout: page
+title: README
+permalink: /readme/
+---
 :toc:
-:toclevels: 5
-jcayouette <joe.cayouette@gmail.com>
+
 
 == Introduction
 
-The goal of this project is to provide a place for daily knowledge to be stored,shared, discussed and distributed. 
+The goal of this project is to provide a place for daily knowledge to be stored,shared, discussed and distributed.
 It will act as a foundation for exploring and shaping various technical concepts and innovative solutions for many of my other projects. A side goal of this project is to experiment with a modern technical documentation stack and backend that can be migrated to my official work.
 
 This blog will eventually contain, thought experiments and insight exploring many fascinating topics such as: Information science, diluvial geology/sedimentology, philosophy, cosmology, business and project management, Christianity and various Religous studies, both historical and observational science, morality and ethics, and perhaps if I am feeling particulary adventurous a few Greek, Hebrew, Latin, German, and English language studies and a smattering of various historical topics.
 
 [quote, Jcayouette 2018]
 ____
-**Disclaimer:** This project does not reflect the thoughts or opinions of any other projects I am currently associated or aligned with. "Although some of the ideas presented/experimented with here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll." 
+**Disclaimer:** This project does not reflect the thoughts or opinions of any other projects I am currently associated or aligned with. "Although some of the ideas presented/experimented with here may wander into those projects, for example: IA for github pages, context based search, asciidoctor and jekyll."
 ____
 
 == Wiki - Planning and Contributor Guides
@@ -27,13 +30,13 @@ JoAnn Hackos book - "Managing Your Documentation Projects" will be used to const
 
 This blog will be a side project to my main profession so things will begin at a slow pace. Once planning, infrastructure, IA, and automation are in place, there should be at least semi-regular posts.
 
-==== Blog Information Architechture (IA) Review (IN_PROGRESS) 
+==== Blog Information Architechture (IA) Review (IN_PROGRESS)
 
 https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Information-Plan[Information Plan]
 
-https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Content-Specification[Content Specification]    
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Content-Specification[Content Specification]
 
-https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Implementation[Implementation]   
+https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Implementation[Implementation]
 
 https://github.com/jcayouette/jcayouette-blog/wiki/blog-IA-Review---Production[Production]
 

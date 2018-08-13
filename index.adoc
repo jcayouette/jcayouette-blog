@@ -4,3 +4,8 @@
 
 layout: home
 ---
+= Home
+
+This is the main index Page
+
+== Testing Section 2 Header
