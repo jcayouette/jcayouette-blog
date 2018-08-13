@@ -17,7 +17,7 @@ ____
 
 == Wiki - Planning and Contributor Guides
 
-[Tech Stack and Contribution Guides](https://github.com/jcayouette/jcayouette-blog/wiki)
+https://github.com/jcayouette/jcayouette-blog/wiki[Tech Stack and Contribution Guides]
 
 == Planning Blog Infrastructure
 
